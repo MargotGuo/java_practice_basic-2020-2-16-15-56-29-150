@@ -41,6 +41,4 @@ public class Practice2 {
     }
     return list;
   }
-
-
 }
